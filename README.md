@@ -2,7 +2,7 @@
 - 👀 I’m interested in AI/ML
 - 🌱 I’m currently learning python, java
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me , linkedln https://www.linkedin.com/in/aleena-chaudhary-256903347?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+- 📫 How to reach me , linkedln https://www.linkedin.com/in/aleena-chaudhary-256903347
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I love combining art with code—sometimes I sketch my algorithms before I write them!
 
